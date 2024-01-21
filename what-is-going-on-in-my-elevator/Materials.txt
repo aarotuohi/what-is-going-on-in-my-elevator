@@ -1,0 +1,50 @@
+HHA (and colormapjet, gray, surface normal...)
+https://www.mdpi.com/2072-4292/14/3/645
+https://link.springer.com/chapter/10.1007/978-3-319-10584-0_23
+https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+https://github.com/charlesCXK/Depth2HHA
+
+MIRROR SURFACES:
+https://3dlg-hcvc.github.io/mirror3d/#/
+https://www.nature.com/articles/s41467-023-42678-5
+https://web.media.mit.edu/~achoo/polar3D/
+
+TIMO (Time of flight dataset)
+https://vizta-tof.kl.dfki.de/
+https://paperswithcode.com/paper/timo-a-dataset-for-indoor-building-monitoring
+
+ROYALE + YOLO tutotrial:
+https://github.com/pmdtechnologies/SampleYOLO
+
+ROYALE + OpenCV:
+https://github.com/pmdtechnologies/SampleOpenCV
+
+DARKNET + YOLO:
+https://github.com/hank-ai/darknet/
+https://www.ccoderun.ca/programming/darknet_faq/
+https://github.com/stephanecharette/DarkHelp/
+https://www.ccoderun.ca/DarkHelp/api/
+https://github.com/stephanecharette/DarkMark
+https://www.ccoderun.ca/darkmark/
+
+TRACKING:
+https://github.com/prateeksawhney97/Kalman-Filter-for-tracking-a-pedestrian-in-2D
+https://github.com/saimj7/People-Counting-in-Real-Time
+https://github.com/saimj7/Social-Distancing-Detection-in-Real-Time
+https://github.com/topics/people-counting?o=desc&s=updated
+https://github.com/topics/centroid-tracking
+
+EDGE:
+https://github.com/Rishit-dagli/People-Counter-On-Edge
+https://www.eyecloudai.com/post/from-yolo-to-edge-ai-camera-module
+
+DEPTH DATASETS:
+https://github.com/shijieS/people-counting-dataset
+
+3D-YOLO:
+https://github.com/maudzung/Complex-YOLOv4-Pytorch
+https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch
+https://github.com/bijustin/YOLO-DynaSLAM
+
+MIDAS(estimating depth data from RGB images)
+https://github.com/isl-org/MiDaS?linkId=100000220299405
